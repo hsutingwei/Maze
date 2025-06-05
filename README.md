@@ -132,4 +132,3 @@ def potential(pos, mask):
    - 用於計算新奇獎勵
    - 影響探索策略
 
-[rest of the content remains the same...]
